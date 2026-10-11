@@ -1,0 +1,34 @@
+# Visual Studio / Rider / IDE cache and temporary files
+.vs/
+.idea/
+.vscode/
+*.sln
+*.slnx
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# Compiled binaries and symbols
+Binaries/
+Plugins/*/Binaries/
+
+# Unreal Engine intermediate files and build output
+Intermediate/
+Plugins/*/Intermediate/
+DerivedDataCache/
+
+# Auto-saved files, backups, logs, and crash reports
+Saved/
+Output-Build.txt
+*.log
+
+# Personal developer folders
+Content/Developers/
+Content/Collections/
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
